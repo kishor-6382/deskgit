@@ -8,5 +8,3 @@ if string[::]==string[::-1]:
     print("yes it is palindrome")
 def square_n(num):
     return num**2
-def greet():
-    print("good")
