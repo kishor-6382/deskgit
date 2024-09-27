@@ -6,3 +6,5 @@ else:
 string=input("enter name")
 if string[::]==string[::-1]:
     print("yes it is palindrome")
+def square_n(num):
+    return num**2
